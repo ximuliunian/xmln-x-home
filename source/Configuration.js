@@ -123,7 +123,7 @@ export const config = {
         {
             name: 'Xmln-Home',
             icon: 'icon-jiangbing',
-            url: 'https://github.com/ximuliunian/xmln-home',
+            url: 'https://github.com/ximuliunian/x-home',
             description: '本站同款个人主页'
         }, {
             name: 'CloudExplorer',
