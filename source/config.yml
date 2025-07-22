@@ -121,9 +121,9 @@ siteNavs:
 
 # ================ 项目展示 ================
 projects:
-  - name: "Xmln-Home"
+  - name: "X-Home"
     icon: "icon-jiangbing"
-    url: "https://github.com/ximuliunian/xmln-home"
+    url: "https://github.com/ximuliunian/x-home"
     description: "本站同款个人主页"
 
   - name: "CloudExplorer"
