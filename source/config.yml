@@ -186,7 +186,7 @@ icp:
 giscus:
   repo: "ximuliunian/blog" # GitHub仓库（格式：owner/repo）
   repoId: "R_kgDOGuKRyg" # 仓库ID（在Giscus设置获取）
-  category: "Announcements" # 如：Comments
+  category: "General" # 如：Comments
   categoryId: "DIC_kwDOGuKRys4CVf53" # 分类ID
   theme: "light_protanopia" # 主题风格
 
