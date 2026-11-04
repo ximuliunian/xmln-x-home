@@ -12,13 +12,11 @@ enable:
     motto: true # 是否显示座右铭
     hitokoto: true # 是否显示一言
     tags: true # 是否显示标签云
-    dateTime: true # 是否显示时钟
     welcome: true # 是否显示欢迎语
     social: true # 是否显示社交链接
     githubContribution: true # 是否显示GitHub贡献图
     siteNavs: true # 是否显示网站导航
     projects: true # 是否显示项目展示
-    skills: true # 是否显示技术栈
 
   # 留言板模块开关
   comments:
@@ -143,40 +141,6 @@ projects:
     url: "https://github.com/ximuliunian/CloudExplorer"
     description: "本站同款云盘资源页面"
 
-# ================ 技术栈图标 ================
-skills:
-  theme: "light" # 主题风格：light（亮色）/dark（暗色）
-  list:
-    - "idea"
-    - "git"
-    - "maven"
-    - "java"
-    - "spring"
-    - "windows"
-    - "python"
-    - "vue"
-    - "vite"
-    - "vscode"
-    - "mysql"
-    - "redis"
-    - "html"
-    - "ubuntu"
-    - "css"
-    - "linux"
-    - "js"
-    - "github"
-    - "docker"
-    - "nodejs"
-    - "nginx"
-    - "markdown"
-    - "githubactions"
-    - "vim"
-    - "cloudflare"
-    - "kafka"
-    - "rabbitmq"
-    - "elasticsearch"
-    - "ts"
-
 # ================ ICP备案 ================
 icp:
   - domain: "xmln.top"
@@ -226,14 +190,3 @@ _friendLinks:
     #   icon: "icon-zhineng"
     # - sort: "创意设计"
     #   icon: "icon-zhineng"
-
-# ================ 闲言碎语配置 ================
-_gossip:
-  settings:
-    public: 0 # 0=任何人都可以拉取我的内容/1=只有我关联的人可以拉取我的内容
-    internalDisplay: 0 # 0=可以展示所有人的内容/1=只能展示关联我的人的内容
-
-  links: # 关联站点（需完整URL）
-    # 示例：
-    # - "https://friend-site.com"
-    # - "https://another-site.net"
