@@ -144,10 +144,10 @@ icp:
 
 # ================ 评论系统 ================
 giscus:
-  repo: "ximuliunian/blog" # GitHub仓库（格式：owner/repo）
-  repoId: "R_kgDOGuKRyg" # 仓库ID（在Giscus设置获取）
+  repo: "ximuliunian/xmln-x-home" # GitHub仓库（格式：owner/repo）
+  repoId: "R_kgDOPFBDAQ" # 仓库ID（在Giscus设置获取）
   category: "General" # 如：Comments
-  categoryId: "DIC_kwDOGuKRys4CVf53" # 分类ID
+  categoryId: "DIC_kwDOPFBDAc4DKYYt" # 分类ID
   theme: "light_protanopia" # 主题风格
 
 # ================ 留言板配置 ================
